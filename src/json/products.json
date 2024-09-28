@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "ProductName": "Omare sed consequat",
+        "Category": "Dresses",
+        "Price": 700
+    },
+    {
+        "ID": 2,
+        "ProductName": "Pellenttesque posuere",
+        "Category": "Dresses",
+        "Price": 200
+    },
+    {
+        "ID": 3,
+        "ProductName": "Consequat posuere",
+        "Category": "Dresses",
+        "Price": 300
+    },
+    {
+        "ID": 4,
+        "ProductName": "Variable product 001",
+        "Category": "Accessories",
+        "Price": 320
+    },
+    {
+        "ID": 5,
+        "ProductName": "Variable product 002",
+        "Category": "Accessories",
+        "Price": 540
+    }
+]
